@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopApp</string>
+    <string name="navigation_drawer_open">Buka Menu Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Menu Navigasi</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Main Navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gambar</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="developer">Pengembangan</string>
+    <string name="tv_Silahkan">Silahkan login untuk menggunakan aplikasi</string>
+    <string name="creatAcc">buat akun baru</string>
+    <string name="Create">Buat sebuah akun baru</string>
+    <string name="hint_user">Username</string>
+    <string name="hint_pass">Kata Sandi</string>
+    <string name="img_logo">Logo</string>
+</resources>
